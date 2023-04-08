@@ -1,0 +1,34 @@
+E:\Atanu Sir\Steganography\Source\Steganography\bin\Debug\Steganography.exe
+E:\Atanu Sir\Steganography\Source\Steganography\bin\Debug\Steganography.pdb
+E:\Atanu Sir\Steganography\Source\Steganography\obj\Debug\ResolveAssemblyReference.cache
+E:\Atanu Sir\Steganography\Source\Steganography\obj\Debug\Text2Image.Form1.resources
+E:\Atanu Sir\Steganography\Source\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+E:\Atanu Sir\Steganography\Source\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+E:\Atanu Sir\Steganography\Source\Steganography\obj\Debug\Steganography.exe
+E:\Atanu Sir\Steganography\Source\Steganography\obj\Debug\Steganography.pdb
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\obj\Debug\Steganography.exe
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\obj\Debug\Steganography.pdb
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\bin\Debug\Steganography.exe
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\bin\Debug\Steganography.pdb
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\obj\Debug\ResolveAssemblyReference.cache
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\obj\Debug\Text2Image.FrmSteganography.resources
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+G:\resource\steno\Steganography-_18-09-2010\Steganography- 18-09-2010\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\bin\Debug\Steganography.exe
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\bin\Debug\Steganography.pdb
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\obj\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\obj\Debug\Text2Image.FrmSteganography.resources
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\obj\Debug\Steganography.exe
+C:\Users\w7\Desktop\BaharDönemiDersleri2020-2021\Proje 2\Proje2\proje1\pr2\pr3\pr4\pr5\Steganography_Source\obj\Debug\Steganography.pdb
+C:\Users\Osman\Desktop\Proje2\bin\Debug\Steganography.exe
+C:\Users\Osman\Desktop\Proje2\bin\Debug\Steganography.pdb
+C:\Users\Osman\Desktop\Proje2\obj\Debug\Steganography.csproj.AssemblyReference.cache
+C:\Users\Osman\Desktop\Proje2\obj\Debug\Text2Image.FrmSteganography.resources
+C:\Users\Osman\Desktop\Proje2\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\Osman\Desktop\Proje2\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\Osman\Desktop\Proje2\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\Proje2\obj\Debug\Steganography.exe
+C:\Users\Osman\Desktop\Proje2\obj\Debug\Steganography.pdb

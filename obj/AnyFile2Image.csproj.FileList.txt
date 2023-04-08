@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Text2Image.Form1.resources
+obj\Debug\Text2Image.Properties.Resources.resources
+obj\Debug\AnyFile2Image.csproj.GenerateResource.Cache
+obj\Debug\Text2Image.exe
+bin\Debug\Text2Image.exe
+bin\Debug\Text2Image.pdb
+obj\Debug\Text2Image.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Text2Image.Form1.resources
+obj\Release\AnyFile2Image.csproj.GenerateResource.Cache
+bin\Release\AnyFile2Image.exe
+bin\Release\AnyFile2Image.pdb
+obj\Release\AnyFile2Image.Properties.Resources.resources
+obj\Release\AnyFile2Image.exe
+obj\Release\AnyFile2Image.pdb
